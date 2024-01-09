@@ -1,0 +1,19 @@
+               Motherboard
+--------------------------------------------------------------------------------
+82C55AC            24 pin IO Controller (3 x 8)    IO Output header
+M27C256B           256Kb (32Kb x 8) UV EPROM       Main program PROM
+GM76C256C          32Kb x 8 CMOS SRAM              Main RAM
+DS1216B            CMOS RAM-Watch IC               ^^ Non-volatile RAM
+Z84C0008PEC        Z80 CPU, 8 MHz                  Main CPU
+Z0844206PSC        Z80 Serial IO Controller        (Unknown)
+HIN238CP x2        Quad RS232 Transceiver          
+74HC4060           14 stage Ripple Counter         AC Frequency sync via PSU Optocoupler?
+74HC139B1          2 to 4 Line Decoder             Device Select Register (?)
+74HC32N            Quad 2-Input OR Gate            Glue Logic
+74HC04B1           Hex Inverter                    Glue Logic
+
+            IO and button PCB
+--------------------------------------------------------------------------------
+74HC245B1         Octal Bus Transceiver     | Multiplexer for large pinout
+74HC138B1 x2      3 to 8 Line Decoder       | and button matrix.
+74HC00B1  x2      Quad 2-Input NAND Gates   | glue logic for decoders
