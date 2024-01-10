@@ -22,6 +22,8 @@ P1   Printer Shield-to-Ground jumper
 P2   Modem Sheild-to-Ground jumper
 P3   Serial IO Rx Tx Clock "Bonding" Selection (default 2-3 4-5)
 P4   ????
+
+P4-8(?) ROM/RAM Size Patch Area
 ```
 
 ## Theory of Operation
