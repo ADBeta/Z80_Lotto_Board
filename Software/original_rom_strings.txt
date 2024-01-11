@@ -1,0 +1,268 @@
+VER LB5-011001/1$   (c) 1999 E&TS (+GREENBANK)   (c) 1999 David M Parkins; John W Walker
+$ATH0
+$ATS0=0
+$ATS12=40
+$ATDT$9,$0800 731 4775
+$0800 028 3218
+$0800 169 3596
+$0800 169 3857
+$0151 643 1487
+$0151 643 1487
+$0151 643 1487
+$0800 169 0286
+$ATZ
+Error 
+Okay 
+Ready 
+BCL02 Site $
+ Calling...
+K00 .....321=
+K01 .....654>
+K02 .....987?
+K03 .....#0*@
+K04 ........A
+K05 ........B
+K06 ........C
+K07 CPRYGS..
+MCREG1......
+MCREG2......
+MCREG3......
+MCREG4......
+MCREG5......
+MCREG6......
+MCREG7......
+MCREG8......
+MCREG9......
+MCREGA......z
+	RCHECK......
+XATDT0+5....
+XATDT1+5....
+XATDT2+5....
+XATDT3+5....
+RVERSI......
+LOGPTO......
+LOGPTI......;
+MSITEN (hex)=
+MTSERN (bcd)?
+MCASHC (bcd)B
+MCASHO (bcd)[
+MRAND0 (bin)o
+FLAGMT  7..0p
+FLAGRA  7..0q
+FLAGWT  7..0?
+MOBITS  7..0C
+MCHARS......Z
+MCSLDA (bin)g
+MCENT  (bin)
+FLAGBS  7..0
+FLAGRE  7..0
+FLAGCJ  7..0
+FLAGLA  7..0
+FLAGLB  7..0
+FLAGRT  7..0
+FLAGLP  7..0
+MSTAT1  7..0L
+STATBZ  7..0M
+STATSC  7..0W
+ERRCOD (bcd)X
+ERRORC......#0000#0001*1111*2222*9999#3000#3001#3002#3003#3391#4000#4583#8888SCRATCH PAD BEG_SCRATCH PAD END_TOP OF STACK____ABOVE LOG BEGINS
+$=BIG CHANCE LOTTERY= $For Lottery Date $Lottery Day/Date Bad 
+$==========================================
+$- - - - - - - - - - - - - - - - - - - - - 
+$Site Number:$No DCD found $Revised Call-in Time: $Closed for Draw      
+$GMT/BST Mode Changed 
+$==== USER ERROR =====
+$User Error, Code $Memory is Full       
+$GMT/BST Time Detected
+$Site $            Power Down $              Power Up $        Comms To Start $= INSTALLED  OPTIONS =
+$Prefix 9 to Tel (Bit 7)
+$No Tel Prefix   (Bit 7)
+$Bit 6 Option    (Bit 6)
+$Bit 5 Option    (Bit 5)
+$Bit 4 Option    (Bit 4)
+$Comms Enabled   (Bit 3)
+$Comms Disabled  (Bit 3)
+$Bit 2 = 0 (Fitted)     
+$Bit 2 = 1 (Absent)     
+$Bit 1 = 0 (Fitted)     
+$Bit 1 = 1 (Absent)     
+$Bit 0 = 0 (Fitted)     
+$Bit 0 = 1 (Absent)     
+$PRINTER Initialisation / Test in progress  
+$MODEM Initialisation and Test in progress  
+$Promoter details will appear as follows: 
+$KEYPAD Key Detected - Matrix Follows       
+$System Commissioned  
+$De-activated Code BD8
+$De-activated Code BM9
+$(Please wait for communication beeps)
+$Promoter Changed     
+$Version Initialised   
+$Version Unchanged     
+$Activated Code BD8   
+$(Please wait during MODEM timeout beeps)
+$Initiate Dial Up BM9 
+$       Log Dump
+$------------- LOG DUMP START -------------
+$LC  1 2 3 4 x x x x mmhhddMMyycc  S/N Ln CS
+$-------------- LOG DUMP END --------------
+$Open for Draw        
+$Clock Set Started    
+$Clock Set Finished   
+$--------- DIAGNOSTIC STATUS DUMP ---------
+$    System Status    
+$------- DIAGNOSTIC STATUS DUMP END -------
+Ref Number:$Price per entry:                        
+$All amounts in Pounds Sterling 
+$...............
+1$...............
+5$..............
+10$............
+3$...........
+15$...........
+30$.......
+150$.......
+300$...
+1500$...
+3000$=====================
+-2TO WIN
+$You must match 
+-2all
+-0 the numbers on a line  
+$Winning numbers same as TV draw 
+$Using 6 numbers - you win full prize value
+$Using 6 numbers+bonus - you win half prize
+-2OR
+$Match bonus on its own (one number) you
+$win one pound
+$Sat Wed Void Draw 01
+$            Validation Number LB5-099-1897
+$Prize Claims
+0800 389 4257  
+Telephone claims 
+150 or over
+Tickets issued subject to rules of draw.   
+Registered with the Sunderland City        
+Council, SR2 7DN. Registration number      
+0367. Promoter Mr S Sykes, LSNC,           
+Old Mill Road, SR5 5TP.                    
+Sponsored for good causes by Lee Sykes     
+National Centres.                          
+Final lottery date, before expiry of 90    
+days from purchase.
+(c) Lotto Link Ltd 2001. Patent S81593.    
+Tickets issued subject to rules of draw.   
+Registered with the Bristol City           
+Council, BS1 6QW. Registration number      
+212/01. Promoter Ms J Moore,               
+12b Dutchess Road, BS8 2LA                 
+Sponsored for good causes by Lee Sykes     
+National Centres.                          
+Final lottery date, before expiry of 90    
+days from purchase.
+(c) Lotto Link Ltd 2001. Patent S81593.    
+Tickets issued subject to rules of draw.   
+Registered with the Warwick District       
+Council, CV32 4AT. Registration number     
+234. Promoter Mr R Griffin,                
+55 Derby Drive, WA11 8EW                   
+Sponsored for good causes by Life          
+Hospital Trust, Reg Charity No 1031019.    
+Final lottery date, before expiry of 90    
+days from purchase.
+(c) Lotto Link Ltd 2001. Patent S81593.    
+Tickets issued subject to rules of draw.   
+Registered with the City of Liverpool,     
+L1 6JG. Registration Number 4126.          
+Promoter S Yip, 19 Back Canning Street,    
+L8 7PB. Sponsored for good causes by       
+the Liverpool City Environment Centre,     
+Reg Charity No 1079427.                    
+Final lottery date, before expiry of 90    
+days from purchase.
+(c) Lotto Link Ltd 2001. Patent S81593.    
+Version Mismatch     
+$Version No in ROM = $Version No in RAM = $--- LOTTERY TRANSACTION PRINTOUT START ---
+$List Printed Site $Draw Date at Site $Draw Result:                         Bonus
+$, C/F:$ Total $Cash Cnt B/F:$    Machine Report
+$Firmware Revision $Remote Printer Reports Paper $Out$OK$Dial Attempt Counter $    Lottery Report
+$ LC0XX (All Classes) .....$ LC0FF (Blank) ...........$ LC08X (Invalid/Deleted) .$ LC042 (Power Up) ........$ LC041 (Power Down) ......$ LC00A (Syndic-10) .......$ LC005 (Syndic-05) .......$ LC001 (Syndic-01) .......$ LC004 (Match 4) .........$ LC003 (Match 3) .........$ LC002 (Match 2) .........$ LC000 (Error Code LMake) $........... $
+-2POWER DOWN/POWER UP LIST
+-2INTERNAL LOG SUMMARY
+-2WINNERS LIST
+$Match 4 Entries Played .............. $ M4F 
+3000 $ M4H 
+1500 $ M4B    
+1 $Total no of Match 4 full winners .... $Total no of Match 4 half winners .... $Total no of Match 4 bonus winners ... $Match 3 Entries Played .............. $ M3F  
+300 $ M3H  
+150 $ M3B    
+1 $Total no of Match 3 full winners .... $Total no of Match 3 half winners .... $Total no of Match 3 bonus winners ... $Match 2 Entries Played .............. $ M2F   
+30 $ M2H   
+15 $ M2B    
+1 $Total no of Match 2 full winners .... $Total no of Match 2 half winners .... $Total no of Match 2 bonus winners ... $Syndicate 10 Combinations Played .... $ ST4 
+3000 $ ST3  
+300 $ ST2   
+30 $ ST1   
+10 $Total no Syndic-10 Match 4 winners .. $Total no Syndic-10 Match 3 winners .. $Total no Syndic-10 Match 2 winners .. $Total no Syndic-10 Bonus 1 winners .. $Total no Syndic-10 Losers ........... $Syndicate 05 Combinations Played .... $ SF4 
+1500 $ SF3  
+150 $ SF2   
+15 $ SF1    
+5 $Total no Syndic-05 Match 4 winners .. $Total no Syndic-05 Match 3 winners .. $Total no Syndic-05 Match 2 winners .. $Total no Syndic-05 Bonus 1 winners .. $Total no Syndic-05 Losers ........... $Syndicate 01 Combinations Played .... $ SU4  
+300 $ SU3   
+30 $ SU2    
+3 $ SU1    
+1 $Total no Syndic-01 Match 4 winners .. $Total no Syndic-01 Match 3 winners .. $Total no Syndic-01 Match 2 winners .. $Total no Syndic-01 Bonus 1 winners .. $Total no Syndic-01 Losers ........... $---- LOTTERY TRANSACTION PRINTOUT END ----
+$    
+-2WEDNESDAY SUMMARY BCL02 SITE $
+-0     
+$    ------- For Draw $ -------
+$                                 Pounds
+$                 Sales (Wed) $C/F $B/F $ D   
+$            Commission (Wed) $ C   
+$      Prizes Below 150 (Wed) $                                 ----     
+$                   Balance (Wed) $   (The above figures will be saved and   
+$    carried forward to the Remittance     
+$    advice to be printed next Saturday)   
+$    
+-2SATURDAY SUMMARY  BCL02 SITE $                 Sales (Sat) $            Commission (Sat) $      Prizes Below 150 (Sat) $                   Balance (Sat) $    
+-2REMITTANCE ADVICE BCL02 SITE $    ----- For Week End $ -----
+$                  Balance (Week) $          Receive the sum owing           
+$      from Big Chance within 7 days       
+$       Pay the amount due into the        
+$  Big Chance Lottery Bank within 7 days   
+$   Message to Agent   
+$$$$$$.  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+$. Note: Calculations of currency amounts: .
+$. Decimals .50 and above are rounded up   .
+$. Decimals below .50 are rounded down     .
+$.(All rounded to the nearest whole number).
+$.  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+$Syndic-10 Combination
+$Syndic-05 Combination
+$   Syndicate Ticket  
+$Number of One Pound Entries: $Ten $Five$One $............10$.............5$.............1$                    $Lines A-K: 
+$Only the 6 main numbers can be used 
+$Lines L-S: 
+$Only the bonus number can be used 
+-2Syndicate Combination
+$This syndicate combination comprises $10$single syndicate ticket entries, identical 
+$in combination with each costing one 
+$pound. The prizes shown include a multiple 
+$factor of $. The combination is issued 
+$in this way for the convenience of groups. 
+$A single syndicate ticket entry can also 
+$be purchased. 
+$5$To accommodate groups, single syndicate 
+$tickets can also be purchased in 
+$combinations of 5 or 10. 
+LoM2
+H#jTScS
+H#jTScS
+S$j5jCj$jjjxj
+k:khk
+k:khk
+k*lNl
+HYLL\
+\* WARNING * CHECKSUM$  IS STILL CORRUPT  $.....321.....654.....987.....#0*........................CPRYGS..
+=+=1=7===E=K=Q=W=]=e=z=
+Sunday   Monday   Tuesday  WednesdayThursday Friday   Saturday January  February March    April    May      June     July     August   SeptemberOctober  November December stndrdthAMPMA.M.P.M.ampma.m.p.m.BSTGMTA:C 7/8/5$7 6 4$
